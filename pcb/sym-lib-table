@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LM361M")(type "KiCad")(uri "${KIPRJMOD}/libs/LM361M.kicad_sym")(options "")(descr ""))
+  (lib (name "TC1-1-13M_")(type "KiCad")(uri "${KIPRJMOD}/libs/TC1-1-13M_.kicad_sym")(options "")(descr ""))
+)
