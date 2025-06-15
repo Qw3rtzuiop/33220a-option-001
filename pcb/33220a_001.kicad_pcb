@@ -8473,7 +8473,7 @@
 			)
 		)
 		(property ki_fp_filters "DIP*W7.62mm*")
-		(path "/a65780e6-2b51-498e-af4a-4d06d133a468")
+		(path "/b3e36f31-5d1a-4d97-a43f-0756e40f9093")
 		(sheetname "/")
 		(sheetfile "33220a_001.kicad_sch")
 		(attr smd)
@@ -10402,7 +10402,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "10"
+		(property "Value" "10u"
 			(at 0 -1.68 90)
 			(layer "B.Fab")
 			(uuid "b0e94c6b-ca7c-4678-834c-ef6567d72652")
@@ -11020,7 +11020,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "10"
+		(property "Value" "10u"
 			(at 0 -1.68 90)
 			(layer "B.Fab")
 			(uuid "bff04283-d936-4793-871d-cb9dfc144edc")
